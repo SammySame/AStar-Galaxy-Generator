@@ -12,8 +12,8 @@ and if any overlaps are found, one of the objects is deleted.
 ## Creating connections
 
 To create connections, a A* algorithm is used. Thanks to Godot Engine having it built in,
-I could skip having to write it myself. <br>
-Below I have put a simple image that demonstrates how the algorithm connects the galaxies. 
+I could skip having to write it myself. Below I have put a simple image that demonstrates
+how the algorithm connects the galaxies. 
 <p align="center">
   <img src="ConnectionAlgorithm.png" width="400" alt="Connection Algorith Image">
 </p>
