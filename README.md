@@ -16,8 +16,14 @@ objects is deleted.
 
 To create connections a A* algorithm is used. Thanks to Godot Engine
 having it built in, I could skip having to write it myself.
-Bellow I have put a simple video that demonstrates how the algorithm
+Bellow I have put a simple image that demonstrates how the algorithm
 connects the galaxies.
 <p align="center">
   <img src="ConnectionAlgorithm.png" width="400" alt="Connection Algorith Image">
 </p>
+
+(**green**) Create a random path between two points
+(**light green**) If any of the two previous points in the path has shorter distance to the next one,
+   pick one of them, instead of the one on the front. 
+(**blue**) Connect any points with no connections to two closest ones.
+(**red**) Connect points that are really close to each other.
