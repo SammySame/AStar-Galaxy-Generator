@@ -7,7 +7,7 @@ Play around with different values for the generation.
 
 ## Creating galaxies
 
-[Source code for the galaxy creator](galaxy_view_interface.gd)
+[Source code for the galaxy creator](galaxy_view_interface.gd) <br>
 At the beginning galaxies are generated in the grid, then for every one of them
 a unique random "x" and "y" coordinate offset is applied. To prevent the galaxies
 from overlapping, a bounding box test is done for every single one of them,
