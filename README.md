@@ -23,6 +23,7 @@ connects the galaxies.
 </p>
 
 (**green**) Create a random path between two points.<br />
-(**light green**) If any of the two previous points in the path has shorter distance to the next one, pick one of them, instead of the one on the front.<br />
+(**light green**) If any of the two previous points in the path has shorter distance to the next one, pick one of them,
+instead of the one on the front.<br />
 (**blue**) Connect any points with no connections to two closest ones.<br />
 (**red**) Connect points that are really close to each other.
