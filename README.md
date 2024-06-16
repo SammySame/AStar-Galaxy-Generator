@@ -2,13 +2,13 @@
 Fully playable in web browser project made inside Godot Engine. <br>
 
 **[Link to the web project](https://pick65.github.io/AStar-Galaxy-Generator/)** <br>
-Click "**REGENERATE**" and move around the galaxies by pressing on them. <br>
+Click "**REGENERATE**" and move around the galaxies by left clicking on any of them. <br>
 Play around with different values for the generation.
 
 ## Creating galaxies
 
 At the beginning galaxies are generated in the grid, then for every one of them
-a unique random "x" and "y" coordinate offset is generated. To prevent the galaxies
+a unique random "x" and "y" coordinate offset is applied. To prevent the galaxies
 from overlapping, a bounding box test is done for every single one of them,
 and if any overlaps are found, one of the objects is deleted.
 
