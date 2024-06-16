@@ -8,9 +8,9 @@ Click **REGENERATE** and move around the galaxies by left-clicking on any of the
 The Player “spaceship” will always spawn in the largest galaxy cluster, if more than one present,
 and move between points by picking the shortest path.
 Play around with different values for the generation. Some things worth checking out are:
-<br> - setting larger **bounding box inflate**, which will make galaxies more spread out
-<br> - changing **amount per row** to less than 3, which will almost always make two separate clusters
-<br> - low **position randomness* will result in more evenly spaced out galaxies <br>
+<br>  - setting larger **bounding box inflate**, which will make galaxies more spread out
+<br>  - changing **amount per row** to less than 3, which will almost always make two separate clusters
+<br>  - low **position randomness* will result in more evenly spaced out galaxies <br>
 
 
 ## Creating galaxies
