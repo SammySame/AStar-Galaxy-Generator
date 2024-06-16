@@ -1,5 +1,5 @@
 # A* Galaxy Generator
-Fully playable in web browser project made inside Godot Engine. <br/ >
+Fully playable in web browser project made inside Godot Engine. <br>
 [Link to the web project](https://pick65.github.io/AStar-Galaxy-Generator/)
 
 **Bellow I will briefly explain how the code works.**
