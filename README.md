@@ -1,7 +1,7 @@
 # A* Galaxy Generator
 Fully playable in web browser project made inside Godot Engine. <br>
 
-**[Link to the web project](https://pick65.github.io/AStar-Galaxy-Generator/)** <br>
+**[Link to the web project](https://sammysame.github.io/AStar-Galaxy-Generator/)** <br>
 
 ## Gameplay
 Click **REGENERATE** and move around the galaxies by left-clicking on any of them. <br>
